@@ -1,5 +1,7 @@
 # Basic Angular 2 SPA
 
+This project is the result of the tutorial [Make a Simple Angular 2 SPA](http://junerockwell.com/make-angular-2-spa).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
 
 ## Development server
